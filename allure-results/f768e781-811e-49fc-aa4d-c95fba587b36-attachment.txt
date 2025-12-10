@@ -1,0 +1,23 @@
+INFO: Starting Dynamic Datatable test
+Navigated to the Automation Testing Practice page
+4
+Name: Firefox
+Network (Mbps): 2.6 Mbps
+Disk (MB/s): 0.29 MB/s
+CPU (%): 5.6%
+Memory (MB): 71.8 MB
+Name: Internet Explorer
+Network (Mbps): 7.5 Mbps
+Disk (MB/s): 0.41 MB/s
+CPU (%): 7.3%
+Memory (MB): 39.1 MB
+Name: Chrome
+Network (Mbps): 5.5 Mbps
+Disk (MB/s): 0.29 MB/s
+CPU (%): 8.3%
+Memory (MB): 66.6 MB
+Name: System
+Network (Mbps): 7.8 Mbps
+Disk (MB/s): 0.03 MB/s
+CPU (%): 4.4%
+Memory (MB): 50.3 MB

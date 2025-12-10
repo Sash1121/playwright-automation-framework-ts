@@ -1,0 +1,18 @@
+[
+    {
+      "keyword": "navigateTo",
+      "locator": "",
+      "value": "https://example.com"
+    },
+    {
+      "keyword": "enterText",
+      "locator": "#username",
+      "value": "testuser"
+    },
+    {
+      "keyword": "click",
+      "locator": "#loginButton",
+      "value": ""
+    }
+  ]
+  

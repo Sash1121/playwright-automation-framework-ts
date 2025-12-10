@@ -1,0 +1,2 @@
+INFO: Starting Static Datatable test
+Navigated to the Automation Testing Practice page

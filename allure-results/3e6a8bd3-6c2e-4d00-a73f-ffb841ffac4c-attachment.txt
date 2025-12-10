@@ -1,0 +1,8 @@
+INFO: Starting Dynamic Datatable test
+Navigated to the Automation Testing Practice page
+Name	Memory (MB)	Network (Mbps)	CPU (%)	Disk (MB/s)
+[ 'Name', 'Memory (MB)', 'Network (Mbps)', 'CPU (%)', 'Disk (MB/s)' ]
+Data in Cell 0: Firefox
+Data in Cell 1: 45.1 MB
+Data in Cell 2: 5.6 Mbps
+Data in Cell 3: 4.5%

@@ -1,0 +1,12 @@
+INFO: Starting Static Datatable test
+Navigated to the Automation Testing Practice page
+Learn Selenium	Amit	Selenium	300
+[ 'Learn Selenium', 'Amit', 'Selenium', '300' ]
+Cell 0: Learn Selenium
+Learn Selenium
+Cell 1: Amit
+Amit
+Cell 2: Selenium
+Selenium
+Cell 3: 300
+300

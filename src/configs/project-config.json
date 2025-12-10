@@ -1,0 +1,8 @@
+{
+    "baseURL": "https://www.automationexercise.com/login",
+    "loginPage": {
+        "usernameField": "#project-username",
+        "passwordField": "#project-password",
+        "loginButton": "project-login"
+    }
+}

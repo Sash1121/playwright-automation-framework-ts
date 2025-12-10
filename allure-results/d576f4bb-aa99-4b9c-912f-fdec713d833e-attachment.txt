@@ -1,0 +1,3 @@
+INFO: Starting Dynamic Datatable test
+Navigated to the Automation Testing Practice page
+4

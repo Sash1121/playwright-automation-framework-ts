@@ -1,0 +1,4 @@
+INFO: Starting Dynamic Datatable test
+Navigated to the Automation Testing Practice page
+Name	Disk (MB/s)	CPU (%)	Memory (MB)	Network (Mbps)
+[ 'Name', 'Disk (MB/s)', 'CPU (%)', 'Memory (MB)', 'Network (Mbps)' ]

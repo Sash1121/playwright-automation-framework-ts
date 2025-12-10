@@ -1,0 +1,3 @@
+INFO: Starting Static Datatable test
+Navigated to the Automation Testing Practice page
+locator('table').filter({ hasText: 'BookTable' }).locator('tr').filter({ hasText: 'Amit' })

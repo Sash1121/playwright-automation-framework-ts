@@ -1,0 +1,2 @@
+INFO: Starting Static Datatable test
+locator('title')

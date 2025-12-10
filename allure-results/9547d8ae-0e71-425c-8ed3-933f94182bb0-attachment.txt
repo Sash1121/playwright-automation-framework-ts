@@ -1,0 +1,8 @@
+INFO: Starting Dynamic Datatable test
+Navigated to the Automation Testing Practice page
+Name	CPU (%)	Memory (MB)	Disk (MB/s)	Network (Mbps)
+[ 'Name', 'CPU (%)', 'Memory (MB)', 'Disk (MB/s)', 'Network (Mbps)' ]
+Data in Cell 0: [object Promise]
+Data in Cell 1: [object Promise]
+Data in Cell 2: [object Promise]
+Data in Cell 3: [object Promise]

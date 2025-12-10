@@ -1,0 +1,5 @@
+{
+    "validLogin": { "username": "user1", "password": "password1"},
+    "invalidLogin": { "username": "user2", "password": "password2"},
+    "signUp": { "name": "Shashank", "email": "shashankrao29@gmail.com"}
+}

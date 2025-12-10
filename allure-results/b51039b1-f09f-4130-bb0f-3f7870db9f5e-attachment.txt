@@ -1,0 +1,4 @@
+INFO: Starting Static Datatable test
+Navigated to the Automation Testing Practice page
+Learn Selenium	Amit	Selenium	300
+[ 'Learn Selenium', 'Amit', 'Selenium', '300' ]
